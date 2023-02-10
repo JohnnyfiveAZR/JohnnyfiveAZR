@@ -1,5 +1,5 @@
 <h1>Hello there!, I'm Johnny, an <a href="https://www.linkedin.com/in/jonathan-taylor-869042244">IT Professional</a></h1>
-
+<img src="https://i.imgur.com/bGhquao.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <h2>💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
