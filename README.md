@@ -32,5 +32,9 @@ Hello Johnny here! Welcome to my GitHub! Feel free to take a look around and pok
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JohnnyfiveAZR)  
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://github.com/JohnnyfiveAZR)  
+
+
+
 
 
