@@ -3,9 +3,8 @@
 Hello Johnny here! Welcome to my GitHub! Feel free to take a look around and poke around some of my projects I have below. Some of my projects are still a work in progress so bare with with me while I finish these up haha. I will continue to add more projects along the way and focus more so on Cybersecurity projects that will help others along their journey.
 <br />
 <br />
-<br />
-<br />
-<br />
+
+
 
 <h2>💻 Information Technology Projects:</h2>
 
@@ -21,9 +20,11 @@ Hello Johnny here! Welcome to my GitHub! Feel free to take a look around and pok
 <h2>🤳Connect with me:</h2>
 
 
-[<img align="left" alt="Johnny | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+- 🔭 I’m currently working on Cybersecurity projects 
+- 🌱 I’m currently learning REACT| JS| HTML| CSS
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/johnny-taylor-869042244//)  
 
 
-[linkedin]: https://www.linkedin.com/in/johnny-taylor-869042244/
