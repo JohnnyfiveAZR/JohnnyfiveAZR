@@ -1,4 +1,4 @@
-<h1>Hello there!, I'm Johnny, an <a href="https://www.linkedin.com/in/jonathan-taylor-869042244">IT Professional</a></h1>
+<h1>Hello there!, I'm Johnny, an <a href="https://www.linkedin.com/in/jonathan-taylor-869042244">Aspiring Cybersecurity Professional</a></h1>
 <img src="https://i.imgur.com/bGhquao.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Hello Johnny here! Welcome to my GitHub! Feel free to take a look around and poke around some of my projects I have below. Some of my projects are still a work in progress so bare with with me while I finish these up haha. I will continue to add more projects along the way and focus more so on Cybersecurity projects that will help others along their journey.
 <br />
