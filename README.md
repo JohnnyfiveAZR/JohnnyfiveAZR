@@ -23,8 +23,14 @@ Hello Johnny here! Welcome to my GitHub! Feel free to take a look around and pok
 
 - 🔭 I’m currently working on Cybersecurity projects 
 - 🌱 I’m currently learning REACT| JS| HTML| CSS
+<br />
+<br />
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/johnny-taylor-869042244//)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/johnny-taylor-869042244//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JohnnyfiveAZR)  
+
+
 
 
