@@ -1,4 +1,4 @@
-<h1>Hello there!, I'm Johnny, an <a href="https://www.linkedin.com/in/jonathan-taylor-869042244">Aspiring Cybersecurity Professional</a></h1>
+<h1>Hello there!, I'm Johnny, an <a href="https://www.linkedin.com/in/jonathan-taylor-869042244">Cybersecurity Professional</a></h1>
 <img src="https://i.imgur.com/bGhquao.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Hello Johnny here! In my free time, I enjoy tinkering with new technologies, checking out best practices for software development, and contributing to open-source projects on GitHub. I love the opportunities that GitHub provides for developers to collaborate, share knowledge, and build great software together. Thank you for taking the time to read my introduction!
 <br />
