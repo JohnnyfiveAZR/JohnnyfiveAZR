@@ -11,8 +11,7 @@ Hello I'm Johnny! In my free time, I enjoy tinkering with new technologies, chec
 <br />
   <h2>🔐 Cybersecurity Projects:</h2>
 
-- <b>[Building a SOC + Honeynet in Azure (Live Traffic)(https://github.com/JohnnyfiveAZR/Cyber-Security-Course]
-  
+- <b>Building a SOC + Honeynet in Azure (Live Traffic)
 
 <h2>💻 Information Technology Projects:</h2>
 
