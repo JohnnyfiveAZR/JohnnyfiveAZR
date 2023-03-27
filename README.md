@@ -23,7 +23,7 @@ Hello I'm Johnny! In my free time, I enjoy tinkering with new technologies, chec
 
 
 <h2>🤳Connect with me:</h2>
-/play live
+
 
 
 - 🔭 I’m currently working on Cybersecurity projects 
