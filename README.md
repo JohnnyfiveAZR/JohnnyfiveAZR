@@ -10,7 +10,8 @@ Hello I'm Johnny! In my free time, I enjoy tinkering with new technologies, chec
 <br />
 <br />
   <h2>🔐 Cybersecurity Projects:</h2>
-- [https://github.com/JohnnyfiveAZR/Cyber-Security-Course]
+
+  - [https://github.com/JohnnyfiveAZR/Cyber-Security-Course]
 
 <h2>💻 Information Technology Projects:</h2>
 
