@@ -12,6 +12,10 @@ Hello I'm Johnny! In my free time, I enjoy tinkering with new technologies, chec
   <h2>🔐 Cybersecurity Projects:</h2>
 
 - <b>Building a SOC + Honeynet in Azure (Live Traffic)
+<p>
+  </p>
+ <br>
+<br />
 
 <h2>💻 Information Technology Projects:</h2>
 
