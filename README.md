@@ -32,7 +32,7 @@ Hello I'm Johnny! In my free time, I enjoy tinkering with new technologies, chec
 
 
 
-- 🔭 I’m currently working on Cybersecurity projects 
+- 🔭 I’m currently working on Cybersecurity projects
 - 🌱 I’m currently learning REACT| JS| HTML| CSS
 <br />
 <br />
