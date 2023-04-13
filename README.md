@@ -3,8 +3,8 @@
 Hello I'm Johnny! In my free time, I enjoy tinkering with new technologies, checking out best practices for software development, and contributing to open-source projects on GitHub. I love the opportunities that GitHub provides for developers to collaborate, share knowledge, and build great software together. Thank you for taking the time to read my intro!
 <br />
 <br />
-<br />
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyfiveAZR&show_icons=true&theme=radical)
 <p>
   </p>
 <br />
