@@ -47,7 +47,6 @@ Hello I'm Johnny! In my free time, I enjoy tinkering with new technologies, chec
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://github.com/JohnnyfiveAZR)  
 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyfiveAZR)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
