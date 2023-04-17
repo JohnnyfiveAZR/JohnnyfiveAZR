@@ -13,6 +13,7 @@ Hello I'm Johnny! In my free time, I enjoy tinkering with new technologies, chec
 
 - <b>[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/JohnnyfiveAZR/Cyber-Security-Course)
 - <b>[Security Operations (Failed Aunthentication and Log Observation)](https://github.com/JohnnyfiveAZR/Security-Operations-Failed-Aunthentication-and-Log-Observation-)
+- <b>[Azure Active Directory](https://github.com/JohnnyfiveAZR/Azure-Active-Directory-Users-Groups-and-Access-Managment-)
 <p>
   </p>
  <br>
