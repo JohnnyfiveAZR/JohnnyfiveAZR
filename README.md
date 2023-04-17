@@ -15,6 +15,7 @@ Hello I'm Johnny! In my free time, I enjoy tinkering with new technologies, chec
 - <b>[Security Operations (Failed Aunthentication and Log Observation)](https://github.com/JohnnyfiveAZR/Security-Operations-Failed-Aunthentication-and-Log-Observation-)
 - <b>[Azure Active Directory](https://github.com/JohnnyfiveAZR/Azure-Active-Directory-Users-Groups-and-Access-Managment-)
 - <b>[Security and Privacy Controls for Information Systems and Organizations](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf)
+- <b>[Geo IP Data Ingestion + Log Analytics and Microsoft Sentinel (SIEM) Setup](https://github.com/JohnnyfiveAZR/Geo-IP-Data-Ingestion-Log-Analytics-and-Microsoft-Sentinel-SIEM-Setup)
 <p>
   </p>
  <br>
