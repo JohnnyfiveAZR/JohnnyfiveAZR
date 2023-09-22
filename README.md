@@ -54,8 +54,8 @@ Hello I'm Johnny, In my free time I enjoy learning new technologies, checking ou
 
 
 
-- 🔭 I’m currently working on Cybersecurity projects
-- 🌱 I’m currently learning REACT| JS| HTML| CSS
+- 🔭 I’m currently working on Cloud projects
+- 🌱 I’m currently learning |REACT|JS|HTML|CSS|BASH|Python|SQL|KQL|C#|
 <br />
 <br />
 
