@@ -55,7 +55,7 @@ Hello I'm Johnny, In my free time I enjoy learning new technologies, checking ou
 
 
 - 🔭 I’m currently working on Cloud projects
-- 🌱 I’m currently learning | REACT | JS | HTML | CSS | BASH | Python | SQL | KQL | LPI |
+- 🌱 I’m currently learning | Python | JS | HTML | CSS | BASH | SQL | KQL | LPI |
 <br />
 <br />
 
