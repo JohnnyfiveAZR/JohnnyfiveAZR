@@ -17,7 +17,7 @@ Hello I'm Johnny, In my free time I enjoy learning new technologies, checking ou
     
     
 - <b>AWS Website hosted on S3</b>
-  <br />
+- <b>Azure Resume 
   <br />
   <br />
   <br />
