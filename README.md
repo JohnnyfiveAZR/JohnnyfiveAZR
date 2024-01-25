@@ -1,6 +1,6 @@
 <h1><a href="https://www.linkedin.com/in/jonathan-taylor-869042244"> Cloud Computing ☁️🔐</a></h1>
 <img src="https://i.imgur.com/kwnhYju.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Hello I'm Johnny, In my free time I enjoy learning new technologies, checking out best practices for software development, and contributing to open src projects on GitHub. Happy to be apart of the GitHub community that provides opportunities to collaborate, share knowledge, bring our own uniqueness, and build rad software together. Currently pursuing my BSCC degree in Cloud Computing and striving for excellence in gaining more experience, knowledge, and skills. Still learning A LOT, but thats what always makes the journey well worth it. Thank you for checking out my hub and take it easy! | Eat | Sleep | Code| Repeat | 
+Hello I'm Johnny, In my free time I enjoy learning new technologies, checking out best practices for software development, and contributing to open src projects on GitHub. Happy to be apart of the GitHub community that provides opportunities to collaborate, share knowledge, bring our own uniqueness, and build rad software together. Thank you for checking out my hub and take it easy! |Eat | Sleep | Code| Repeat| 
 
 <br />
 <br />
