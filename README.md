@@ -1,6 +1,6 @@
 <h1><a href="https://www.linkedin.com/in/jonathan-taylor-869042244"> Cloud Computing ☁️🔐| IT | CyberSecurity </a></h1>
 <img src="https://i.imgur.com/kwnhYju.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Hello I'm Johnny, In my free time I enjoy learning new technologies, checking out best practices for software development, and contributing to open src projects on GitHub. Happy to be apart of the GitHub community, Thank you for checking out my hub and take it easy! |Eat | Sleep | Code| Repeat| 
+Hello I'm Johnny, In my free time I enjoy learning new technologies, checking out best practices for software development, and contributing to open src projects on GitHub. Happy to be apart of the GitHub community, Thank you for checking out my hub and take it easy!
 
 <br />
 <br />
