@@ -44,10 +44,7 @@ Hello I'm Johnny, In my free time I enjoy learning new technologies, checking ou
 
 <h2>💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/johnnyfiveAZR/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/johnnyfiveAZR/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/johnnyfiveAZR/ticket-lifecycle)
+
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JohnnyfiveAZR/Microsoft-Azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JohnnyfiveAZR/Network-Security-Groups)
