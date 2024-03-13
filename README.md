@@ -5,7 +5,7 @@ Hello I'm Johnny, In my free time I enjoy learning new technologies, checking ou
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyfiveAZR&show_icons=true&theme=radical)
+
 <p>
   </p>
 <br />
