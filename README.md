@@ -55,7 +55,7 @@ Hello I'm Johnny, In my free time I enjoy learning new technologies, checking ou
 
 
 - 🔭 I’m currently working on projects | studies
-- 🌱 I’m currently learning | BASH | SQL | KQL | LPI | Python 
+- 🌱 I’m currently learning | BASH | SQL | KQL | LPI | Powershell
 <br />
 <br />
 
