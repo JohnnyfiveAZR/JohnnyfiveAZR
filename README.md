@@ -12,7 +12,7 @@ Hello I'm Johnny, In my free time I enjoy learning new technologies, checking ou
 <br />
   
   
-  <h2>☁️Cloud Projects
+  <h2>☁️Cloud Projects:</h2>
   <br/>
     
     
