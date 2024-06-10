@@ -48,6 +48,11 @@ Hello I'm Johnny, In my free time I enjoy learning new technologies, checking ou
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JohnnyfiveAZR/Microsoft-Azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JohnnyfiveAZR/Network-Security-Groups)
+- <b>oS Ticket (Help Desk Ticketing System)
+  - oSTicket: Prerequisits and Installation
+  - oSTicket: Post-Installation Configuration
+  - oSTicket: Ticket Lifecycle Examples
+    
 
 
 <h2>🤳Connect with me:</h2>
