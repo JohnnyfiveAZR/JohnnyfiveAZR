@@ -13,14 +13,15 @@ Hello I'm Johnny, In my free time I enjoy learning new technologies, checking ou
   
   
   <h2>☁️Cloud Projects:</h2>
-  <br/>
-    
-    
-- <b>
-- <b>
+  <b>
   <br />
   <br />
   <br />
+  <br />
+  <br />
+  
+  
+
   
   </p>
   
