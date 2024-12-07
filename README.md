@@ -1,6 +1,6 @@
-<h1><a href="https://www.linkedin.com/in/jonathan-taylor-869042244"> Information Technology ☁️🔐 CyberSecurity </a></h1>
+<h1><a href="https://www.linkedin.com/in/jonathan-taylor-869042244"> Information Technology ☁️🔐 CyberSecurity Professional </a></h1>
 <img src="https://i.imgur.com/iPlyiwZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Hello I'm Johnny, In my free time I enjoy learning new technologies, checking out best practices for software development, and I'm happy to be apart of the GitHub community, Thank you for checking out my hub and take care!
+Whats up everyone, hope all is well! I enjoy learning new technologies, checking out best practices for my learning journey in software development, and I'm happy to be apart of the GitHub community. Take care!
 
 <br />
 <br />
