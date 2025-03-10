@@ -1,4 +1,4 @@
-<h1><a href="https://www.linkedin.com/in/jonathan-taylor-869042244"> Information Technology 🛜🔐☁️ </a></h1>
+<h1><a href="https://www.linkedin.com/in/jonathan-taylor-869042244"> Information Technology 🛜⚡🔐☁️ </a></h1>
 <img src="https://i.imgur.com/iPlyiwZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Whats up! hope all is well! I enjoy learning new technologies, checking out best practices for my learning journey in software development, networking, and cyber security. Happy to be apart of the GitHub community, Take care!
 
@@ -12,7 +12,7 @@ Whats up! hope all is well! I enjoy learning new technologies, checking out best
 <br />
   
   
-  <h2>🛜Network Projects: Under Construction🚧</h2>
+  <h2>🛜⚡Network Projects: Under Construction🚧</h2>
   <b>
   <br />
   <br />
