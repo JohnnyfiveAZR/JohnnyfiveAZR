@@ -1,6 +1,6 @@
-<h1><a href="https://www.linkedin.com/in/jonathan-taylor-869042244"> Information Technology ☁️🔐 CyberSecurity Professional </a></h1>
+<h1><a href="https://www.linkedin.com/in/jonathan-taylor-869042244"> Information Technology 🛜🔐☁️ </a></h1>
 <img src="https://i.imgur.com/iPlyiwZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Whats up everyone, hope all is well! I enjoy learning new technologies, checking out best practices for my learning journey in software development, and I'm happy to be apart of the GitHub community. Take care!
+Whats up! hope all is well! I enjoy learning new technologies, checking out best practices for my learning journey in software development, networking, and cyber security. Happy to be apart of the GitHub community, Take care!
 
 <br />
 <br />
@@ -12,7 +12,7 @@ Whats up everyone, hope all is well! I enjoy learning new technologies, checking
 <br />
   
   
-  <h2>☁️Cloud Projects:</h2>
+  <h2>🛜Network Projects: Under Construction🚧</h2>
   <b>
   <br />
   <br />
@@ -31,7 +31,7 @@ Whats up everyone, hope all is well! I enjoy learning new technologies, checking
   
   
   
-  <h2>🔐 Cybersecurity Projects:</h2>
+  <h2>🔐 Cybersecurity Projects: Under Construction🚧</h2>
 
 - <b>[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/JohnnyfiveAZR/Cyber-Security-Course)
 - <b>[Security Operations (Failed Aunthentication and Log Observation)](https://github.com/JohnnyfiveAZR/Security-Operations-Failed-Aunthentication-and-Log-Observation-)
@@ -60,7 +60,7 @@ Whats up everyone, hope all is well! I enjoy learning new technologies, checking
 
 
 - 🔭 I’m currently working on projects | studies
-- 🌱 I’m currently learning | BASH | SQL | KQL | LPI | Powershell
+- 🌱 I’m currently learning | BASH | SQL | LPI | Powershell
 <br />
 <br />
 
