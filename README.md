@@ -1,34 +1,18 @@
-<h1><a href="https://www.linkedin.com/in/jonathan-taylor-869042244"> Information Technology 🛜⚡🔐☁️ </a></h1>
+<h1><a href="https://www.linkedin.com/in/jonathan-taylor-869042244">Johnny Taylor</a>'s IT and Cybersecurity Project portfolio 🛜⚡🔐☁️ </a></h1>
 <img src="https://i.imgur.com/iPlyiwZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Whats up! hope all is well! I enjoy learning new technologies, checking out best practices for my learning journey in software development, networking, and cyber security. Happy to be apart of the GitHub community, Take care!
-
-<br />
-<br />
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
-<p>
-  </p>
-<br />
-<br />
-  
-  
-  <h2>🛜⚡Network Projects: Under </h2>
-  <b>
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  
-  
+## ⚠️ Vulnerability Management Projects
 
-  
-  </p>
-  
-  
-  
-  
-  
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+<br />
+<br />
   
   
   <h2>🔐 Cybersecurity Projects:🚧</h2>
@@ -41,7 +25,7 @@ Whats up! hope all is well! I enjoy learning new technologies, checking out best
   </p>
  <br>
 <br />
-
+<br />
 <h2>💻 Information Technology Projects: Under Construction🚧</h2>
 
 
