@@ -40,7 +40,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 
 - 🔭 I’m currently working on projects | studies
-- 🌱 I’m currently learning | BASH | SQL | LPI | Powershell
+- 🌱 I’m currently learning | BASH | SQL | KQL | Powershell
 <br />
 <br />
 
