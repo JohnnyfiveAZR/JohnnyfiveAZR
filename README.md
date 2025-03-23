@@ -26,16 +26,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
  <br>
 <br />
 <br />
-<h2>💻 Information Technology Projects: Under Construction🚧</h2>
+<h2>💻 Information Technology Projects</h2>
 
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JohnnyfiveAZR/Microsoft-Azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JohnnyfiveAZR/Network-Security-Groups)
-- <b>oS Ticket (Help Desk Ticketing System)
-  - [oSTicket: Prerequisits and Installation](https://github.com/JohnnyfiveAZR/OS-Ticketing-System-/blob/main/README.md)
-  - oSTicket: Post-Installation Configuration
-  - oSTicket: Ticket Lifecycle Examples
     
 
 
