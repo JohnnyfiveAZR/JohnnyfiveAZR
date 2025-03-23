@@ -12,7 +12,7 @@ Whats up! hope all is well! I enjoy learning new technologies, checking out best
 <br />
   
   
-  <h2>🛜⚡Network Projects: Under Construction🚧</h2>
+  <h2>🛜⚡Network Projects: Under </h2>
   <b>
   <br />
   <br />
@@ -31,7 +31,7 @@ Whats up! hope all is well! I enjoy learning new technologies, checking out best
   
   
   
-  <h2>🔐 Cybersecurity Projects: Under Construction🚧</h2>
+  <h2>🔐 Cybersecurity Projects:🚧</h2>
 
 - <b>[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/JohnnyfiveAZR/Cyber-Security-Course)
 - <b>[Security Operations (Failed Aunthentication and Log Observation)](https://github.com/JohnnyfiveAZR/Security-Operations-Failed-Aunthentication-and-Log-Observation-)
