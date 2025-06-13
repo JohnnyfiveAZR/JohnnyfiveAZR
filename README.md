@@ -39,7 +39,7 @@
 
 
 - 🔭 I’m currently working on projects | studies
-- 🌱 I’m currently implementing | BASH | SQL | KQL | Linux
+- 🌱 I’m currently implementing SQL | KQL
 <br />
 <br />
 
