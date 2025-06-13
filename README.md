@@ -1,6 +1,5 @@
 <h1><a href="https://www.linkedin.com/in/jonathan-taylor-869042244">Johnny Taylor</a>'s IT and Cybersecurity Project portfolio 🛜⚡🔐☁️ </a></h1>
 <img src="https://i.imgur.com/iPlyiwZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
 ## ⚠️ Vulnerability Management Projects
@@ -40,7 +39,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 
 - 🔭 I’m currently working on projects | studies
-- 🌱 I’m currently implementing | BASH | SQL | KQL | Powershell
+- 🌱 I’m currently implementing | BASH | SQL | KQL | Linux
 <br />
 <br />
 
