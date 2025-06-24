@@ -39,7 +39,7 @@
 
 
 - 🔭 I’m currently working on projects | studies
-- 🌱 I’m currently implementing SQL | KQL
+- 🌱 SQL | KQL
 <br />
 <br />
 
