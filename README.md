@@ -1,4 +1,4 @@
-<h1><a href="https://www.linkedin.com/in/jonathan-taylor-869042244">Johnny Taylor</a>'s IT and Cybersecurity Project portfolio 🛜⚡🔐☁️ </a></h1>
+<h1><a href="https://www.linkedin.com/in/jonathan-taylor-869042244">Johnny Taylor</a>'s Networking and Cybersecurity Project portfolio 🛜⚡🔐☁️ </a></h1>
 <img src="https://i.imgur.com/iPlyiwZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
