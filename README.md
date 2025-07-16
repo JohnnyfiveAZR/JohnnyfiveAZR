@@ -1,4 +1,4 @@
-<h1><a href="https://www.linkedin.com/in/jonathan-taylor-869042244">Johnny Taylor</a>'s Networking and Cybersecurity Project portfolio 🛜⚡🔐☁️ </a></h1>
+<h1><a href="https://www.linkedin.com/in/jonathan-taylor-869042244">Johnny Taylor</a>'s Network/Security Project portfolio 🛜⚡🔐☁️ </a></h1>
 <img src="https://i.imgur.com/iPlyiwZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
@@ -18,7 +18,6 @@
 
 - <b>[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/JohnnyfiveAZR/Cyber-Security-Course)
 - <b>[Security Operations (Failed Aunthentication and Log Observation)](https://github.com/JohnnyfiveAZR/Security-Operations-Failed-Aunthentication-and-Log-Observation-)
-- <b>[Security and Privacy Controls for Information Systems and Organizations](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf)
 - <b>[Geo IP Data Ingestion + Log Analytics and Microsoft Sentinel (SIEM) Setup](https://github.com/JohnnyfiveAZR/Geo-IP-Data-Ingestion-Log-Analytics-and-Microsoft-Sentinel-SIEM-Setup)
 <p>
   </p>
@@ -38,8 +37,8 @@
 
 
 
-- 🔭 I’m currently working on projects | studies
-- 🌱 SQL | KQL
+- 🔭 I’m currently working on Studies | Networks | DevNet | Routing & Switching
+- 🌱 LINUX | YAML | JSON | XML | SQL | PYTHON
 <br />
 <br />
 
