@@ -37,7 +37,7 @@
 
 
 
-- 🔭 I’m currently working on Studies | Networks | DevNet | Routing & Switching
+- 🔭 I’m currently working on Studies | Network Configs | DevNet | Routing & Switching
 - 🌱 LINUX | YAML | JSON | XML | SQL | PYTHON
 <br />
 <br />
