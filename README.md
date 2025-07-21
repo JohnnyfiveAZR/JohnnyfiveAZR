@@ -5,6 +5,11 @@
 <br />
 <br />
    <h2>🛜 Network Projects<h2>
+<b>Cisco Catalyst 2960X Initial Configuration
+<br />
+<br />
+<br />
+<br />
   ⚠️ Vulnerability Management Projects
 
 
