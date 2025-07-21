@@ -1,24 +1,23 @@
 <h1><a href="https://www.linkedin.com/in/jonathan-taylor-869042244">Johnny Taylor</a>'s IT Project portfolio 🛜⚡🔐☁️ </a></h1>
 <img src="https://i.imgur.com/iPlyiwZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+<br />
+<br />
+<br />
+   <h2>🛜 Network Projects<h2>
+  ⚠️ Vulnerability Management Projects
 
-## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
 <br />
 <br />
   
   
   <h2>🔐 Cybersecurity Projects:🚧</h2>
 
-- <b>[Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/JohnnyfiveAZR/Cyber-Security-Course)
-- <b>[Security Operations (Failed Aunthentication and Log Observation)](https://github.com/JohnnyfiveAZR/Security-Operations-Failed-Aunthentication-and-Log-Observation-)
-- <b>[Geo IP Data Ingestion + Log Analytics and Microsoft Sentinel (SIEM) Setup](https://github.com/JohnnyfiveAZR/Geo-IP-Data-Ingestion-Log-Analytics-and-Microsoft-Sentinel-SIEM-Setup)
 <p>
   </p>
  <br>
