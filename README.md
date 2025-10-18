@@ -42,7 +42,7 @@
 
 
 - 🔭 I’m currently working on Studies | Network Configs | DevNet | Routing & Switching
-- 🌱 HTML | CSS | JS | JSON | LINUX
+- 🌱 HTML | CSS | JS | LINUX
 <br />
 <br />
 
