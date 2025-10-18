@@ -1,61 +1,81 @@
-<h1><a href="https://www.linkedin.com/in/jonathan-taylor-869042244">Johnny Taylor</a>'s IT Project portfolio 🛜⚡🔐☁️ </a></h1>
-<img src="https://i.imgur.com/iPlyiwZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+# 🛜⚡🔐☁️ Johnny Taylor’s IT Project Portfolio
 
-<br />
-<br />
-<br />
-   <h2>🛜 Network Projects<h2>
-<b>Cisco Catalyst 2960X Initial Configuration
-<br />
-<br />
-<br />
-<br />
-  ⚠️ Vulnerability Management Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jonathan-taylor-869042244)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/JohnnyfiveAZR)
+[![Portfolio Projects](https://img.shields.io/badge/Projects-Showcase-success?logo=github)](https://github.com/JohnnyfiveAZR?tab=repositories)
 
+---
 
+<img src="https://i.imgur.com/iPlyiwZ.png" alt="IT Portfolio Banner" width="80%"/>
 
-## 🚨 Threat Hunting and Security Operations
+---
 
+## 🛜 Network Engineering Projects
 
-<br />
-<br />
-  
-  
-  <h2>🔐 Cybersecurity Projects:🚧</h2>
+- **Cisco Catalyst 2960X Initial Configuration**
+  - VLAN setup, trunking, and basic switch security hardening.
+  - Demonstrates CLI configuration and network segmentation fundamentals.
 
-<p>
-  </p>
- <br>
-<br />
-<br />
-<h2>💻 Information Technology Projects</h2>
+- **Routing & Switching Labs (Coming Soon)**
+  - OSPF | EIGRP | STP | EtherChannel  
 
+---
 
-- <b>Microsoft Azure</b>
+## ⚠️ Vulnerability Management Projects
+
+- **Vulnerability Scanning Lab**
+  - Using **Nessus** and **OpenVAS** to identify and remediate system weaknesses.
+  - Reports, prioritization, and mitigation documentation included.
+
+- **Patch Management & System Hardening**
+  - Applying CIS Benchmarks and Windows Server update strategies.
+
+---
+
+## 🚨 Threat Hunting & Security Operations
+
+- **SIEM Implementation**
+  - Splunk & Wazuh setup for log ingestion, alerting, and real-time event analysis.
+
+- **Incident Response Simulation**
+  - Hands-on lab responding to mock ransomware attack scenarios.
+
+---
+
+## 🔐 Cybersecurity Projects
+
+- **Firewall Rule Configuration**
+  - Designing inbound/outbound rules and NAT policies for secure segmentation.
+
+- **Endpoint Security Testing**
+  - Deploying malware detection and sandboxing tools.
+
+---
+
+## 💻 Information Technology Projects
+
+- **Microsoft Azure Labs**
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JohnnyfiveAZR/Microsoft-Azure)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JohnnyfiveAZR/Network-Security-Groups)
-    
+  - [Network Security Groups (NSGs) & Inspecting Network Protocols](https://github.com/JohnnyfiveAZR/Network-Security-Groups)
 
+- **Windows Server Administration**
+  - AD DS, Group Policy, and Role-based Access Control (RBAC).
 
-<h2>🤳Connect with me:</h2>
+---
 
+## 🧠 Current Focus
 
+- 🔭 Studying: **Network Configurations | DevNet | Routing & Switching**
+- 🌱 Learning: **HTML | CSS | JavaScript | Linux | Automation**
 
-- 🔭 I’m currently working on Studies | Network Configs | DevNet | Routing & Switching
-- 🌱 HTML | CSS | JS | LINUX
-<br />
-<br />
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jonathan-t-869042244/)
+## 🤳 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan_Taylor-blue?logo=linkedin)](https://www.linkedin.com/in/jonathan-taylor-869042244)
+[![GitHub](https://img.shields.io/badge/GitHub-JohnnyfiveAZR-black?logo=github)](https://github.com/JohnnyfiveAZR)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-Profile-F58025?logo=stackoverflow)](https://stackoverflow.com/users/https://github.com/JohnnyfiveAZR)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JohnnyfiveAZR)  
+---
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://github.com/JohnnyfiveAZR)  
-
-  
-
-
-
-
+> 💬 *“Turning complex IT challenges into secure, scalable, and reliable solutions.”*
