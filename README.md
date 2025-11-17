@@ -66,7 +66,7 @@
 ## 🧠 Current Focus
 
 - 🔭 Studying: **Network Configurations | DevNet | Routing & Switching**
-- 🌱 Learning: **HTML | CSS | JavaScript | Linux | Automation**
+- 🌱 Learning: **HTML | CSS | JavaScript | Automation**
 
 ---
 
