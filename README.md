@@ -21,27 +21,6 @@
 
 ---
 
-## ⚠️ Vulnerability Management Projects
-
-- **Vulnerability Scanning Lab**
-  - Using **Nessus** and **OpenVAS** to identify and remediate system weaknesses.
-  - Reports, prioritization, and mitigation documentation included.
-
-- **Patch Management & System Hardening**
-  - Applying CIS Benchmarks and Windows Server update strategies.
-
----
-
-## 🚨 Threat Hunting & Security Operations
-
-- **SIEM Implementation**
-  - Splunk & Wazuh setup for log ingestion, alerting, and real-time event analysis.
-
-- **Incident Response Simulation**
-  - Hands-on lab responding to mock ransomware attack scenarios.
-
----
-
 ## 🔐 Cybersecurity Projects
 
 - **Firewall Rule Configuration**
