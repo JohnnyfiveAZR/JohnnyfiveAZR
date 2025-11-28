@@ -10,7 +10,7 @@
 
 ---
 
-## 🛜 Network Engineering Projects
+## 🛜 Network Projects
 
 - **Cisco Catalyst 2960X Initial Configuration**
   - VLAN setup, trunking, and basic switch security hardening.
