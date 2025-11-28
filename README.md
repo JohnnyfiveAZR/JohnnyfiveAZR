@@ -44,8 +44,8 @@
 
 ## 🧠 Current Focus
 
-- 🔭 Studying: **Network Configurations | DevNet | Routing & Switching**
-- 🌱 Learning: **HTML | CSS | JavaScript | Automation**
+- 🔭 Studying: **Network Configurations | Vulnerability Management | EDR | SIEM
+- 🌱 Learning: **KQL | CSS | JS | HTML
 
 ---
 
@@ -53,8 +53,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan_Taylor-blue?logo=linkedin)](https://www.linkedin.com/in/jonathan-taylor-869042244)
 [![GitHub](https://img.shields.io/badge/GitHub-JohnnyfiveAZR-black?logo=github)](https://github.com/JohnnyfiveAZR)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-Profile-F58025?logo=stackoverflow)](https://stackoverflow.com/users/https://github.com/JohnnyfiveAZR)
 
 ---
 
-> 💬 *“Turning complex IT challenges into secure, scalable, and reliable solutions.”*
