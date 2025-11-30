@@ -1,4 +1,4 @@
-# 🛜⚡🔐☁️ Johnny Taylor’s IT Project Portfolio
+# 🛜⚡🔐☁️ Johnny Taylor’s IT & Cybersecurity Project Portfolio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jonathan-taylor-869042244)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/JohnnyfiveAZR)
