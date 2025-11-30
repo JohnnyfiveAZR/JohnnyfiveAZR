@@ -45,7 +45,7 @@
 ## 🧠 Current Focus
 
 - 🔭 Studying: **Network Configurations | Vulnerability Management | EDR | SIEM
-- 🌱 Learning: **KQL | CSS | JS | HTML
+- 🌱 Learning: **KQL | SQL | CSS | JS | HTML
 
 ---
 
