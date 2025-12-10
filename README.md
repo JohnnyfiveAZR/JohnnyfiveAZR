@@ -6,7 +6,7 @@
 
 ---
 
-<img src="https://i.imgur.com/iPlyiwZ.png" alt="IT Portfolio Banner" width="80%"/>
+<img src="https://imgur.com/a/DNOoZRl" alt="IT Portfolio Banner" width="80%"/>
 
 ---
 
