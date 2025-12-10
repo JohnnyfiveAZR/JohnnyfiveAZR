@@ -9,25 +9,10 @@
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/e952dffe-c6a5-4726-9c2f-a20d0d837792" />
 
 ---
+## ⚠️ Vulnerability Management Projects
++ Vulnerability Management Program Implementation
++ Programmatic Vulnerability Remediations (PowerShell and BASH)
 
-## 🛜 Network Projects
-
-- **Cisco Catalyst 2960X Initial Configuration**
-  - VLAN setup, trunking, and basic switch security hardening.
-  - Demonstrates CLI configuration and network segmentation fundamentals.
-
-- **Routing & Switching Labs (Coming Soon)**
-  - OSPF | EIGRP | STP | EtherChannel  
-
----
-
-## 🔐 Cybersecurity Projects
-
-- **Firewall Rule Configuration**
-  - Designing inbound/outbound rules and NAT policies for secure segmentation.
-
-- **Endpoint Security Testing**
-  - Deploying malware detection and sandboxing tools.
 
 ---
 
