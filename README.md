@@ -22,15 +22,13 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JohnnyfiveAZR/Microsoft-Azure)
   - [Network Security Groups (NSGs) & Inspecting Network Protocols](https://github.com/JohnnyfiveAZR/Network-Security-Groups)
 
-- **Windows Server Administration**
-  - AD DS, Group Policy, and Role-based Access Control (RBAC).
 
 ---
 
 ## 🧠 Current Focus
 
-- 🔭 Studying: **Network Configurations | Network Troubleshooting | Vulnerability Management | EDR | SIEM
-- 🌱 Learning: **KQL | SQL | CSS | JS | HTML | Full-Stack Dev |
+- 🔭 Studying: **| Network & Security | Vulnerability Management | EDR | SIEM
+- 🌱 Learning: **KQL | SQL | CSS | JS | HTML |
 
 ---
 
