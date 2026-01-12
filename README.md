@@ -28,7 +28,7 @@
 ## 🧠 Current Focus
 
 - 🔭 Studying: **| Network & Security | Vulnerability Management | EDR | SIEM
-- 🌱 Learning: **KQL | SQL | CSS | JS | HTML |
+- 🌱 Learning: **KQL | SQL |
 
 ---
 
