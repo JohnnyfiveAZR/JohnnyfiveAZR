@@ -1,4 +1,4 @@
-# 🛜⚡🔐☁️ Johnny Taylor’s IT & Cybersecurity Project Portfolio
+# 🛜⚡🔐☁️ Johnny Taylor’s IT Project Portfolio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jonathan-taylor-869042244)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/JohnnyfiveAZR)
@@ -20,7 +20,6 @@
 
 - **Microsoft Azure Labs**
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JohnnyfiveAZR/Microsoft-Azure)
-  - [Network Security Groups (NSGs) & Inspecting Network Protocols](https://github.com/JohnnyfiveAZR/Network-Security-Groups)
 
 
 ---
@@ -28,7 +27,7 @@
 ## 🧠 Current Focus
 
 - 🔭 Studying: **| Network & Security | Vulnerability Management | EDR | SIEM
-- 🌱 Learning: **KQL | SQL |
+- 🌱 Learning: **Python
 
 ---
 
