@@ -1,4 +1,6 @@
-# 🛜⚡🔐☁️ Johnny Taylor’s IT & Cybersecurity Portfolio
+<h1/>🚀 Johnny Taylor — IT & Cybersecurity Portfolio<h1/>
+
+<h2/>Cybersecurity | Networking | Vulnerability Management | SOC-Focused<h2/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jonathan-taylor-869042244)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/JohnnyfiveAZR)
