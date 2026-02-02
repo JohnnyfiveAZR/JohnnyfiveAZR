@@ -6,7 +6,7 @@
 
 ---
 
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/e952dffe-c6a5-4726-9c2f-a20d0d837792" />
+
 
 ---
 ## ⚠️ Vulnerability Management Projects
