@@ -6,7 +6,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/JohnnyfiveAZR)
 [![Portfolio Projects](https://img.shields.io/badge/Projects-Showcase-success?logo=github)](https://github.com/JohnnyfiveAZR?tab=repositories)
 
----
 
 
 
@@ -14,22 +13,24 @@
 ## ⚠️ Vulnerability Management Projects
 + [Vulnerability Management Program Implementation](https://github.com/JohnnyfiveAZR/vulnerability-management-program)
 + Programmatic Vulnerability Remediations (PowerShell and BASH)
-
-
 ---
+## 🕵️‍♂️ Threat Hunting & Security Operations
+*
+*
+*
+*
 
 ## 💻 Information Technology Projects
 
 - **Microsoft Azure Labs**
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JohnnyfiveAZR/Microsoft-Azure)
-
-
+ - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JohnnyfiveAZR/Microsoft-Azure)
 ---
+
 
 ## 🧠 Current Focus
 
-- 🔭 Studying: **Vulnerability Management | EDR | SIEM
-- 🌱 Learning: **SQL | KQL
+- 🔭 Studying: **Vulnerability Management | EDR | SIEM | SOC | Networking
+- 🏁 Learning: **SQL | KQL
 
 ---
 
