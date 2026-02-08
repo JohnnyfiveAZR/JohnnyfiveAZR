@@ -11,17 +11,15 @@
 ## ⚠️ Vulnerability Management Projects
 
 - 🔐 [Vulnerability Management Program Implementation](https://github.com/JohnnyfiveAZR/vulnerability-management-program)
-- 🛠️ Programmatic Vulnerability Remediations  
-  - PowerShell  
-  - Bash
+- 🛠️
 
 ---
 
 ## 🕵️‍♂️ Threat Hunting & Security Operations
 
-- Threat detection & alert triage
-- Log analysis and investigation
-- MITRE ATT&CK–aligned hunting techniques
+- 
+- 
+- 
 
 ---
 
