@@ -1,36 +1,48 @@
-<h1/>🚀 Johnny Taylor — IT & Cybersecurity Portfolio<h1/>
+# 🚀 Johnny Taylor — IT & Cybersecurity Portfolio
 
-<h2/>Cybersecurity + Agentic AI | Networking | Vulnerability Management<h2/>
+## Cybersecurity • Agentic AI • Networking • Vulnerability Management
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jonathan-taylor-869042244)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/JohnnyfiveAZR)
 [![Portfolio Projects](https://img.shields.io/badge/Projects-Showcase-success?logo=github)](https://github.com/JohnnyfiveAZR?tab=repositories)
 
-
-
-
 ---
+
 ## ⚠️ Vulnerability Management Projects
-+ [Vulnerability Management Program Implementation](https://github.com/JohnnyfiveAZR/vulnerability-management-program)
-+ Programmatic Vulnerability Remediations (PowerShell and BASH)
+
+- 🔐 [Vulnerability Management Program Implementation](https://github.com/JohnnyfiveAZR/vulnerability-management-program)
+- 🛠️ Programmatic Vulnerability Remediations  
+  - PowerShell  
+  - Bash
+
 ---
+
 ## 🕵️‍♂️ Threat Hunting & Security Operations
-*
-*
-*
-*
+
+- Threat detection & alert triage
+- Log analysis and investigation
+- MITRE ATT&CK–aligned hunting techniques
+
+---
 
 ## 💻 Information Technology Projects
 
-- **Microsoft Azure Labs**
- - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JohnnyfiveAZR/Microsoft-Azure)
----
+- ☁️ [Configuring On-Premises Active Directory within Azure VMs](https://github.com/JohnnyfiveAZR/Microsoft-Azure)
 
+---
 
 ## 🧠 Current Focus
 
-- 🔭 Studying: **Vulnerability Management | EDR | SIEM | SOC | Networking
-- 🏁 Learning: **SQL | KQL
+- 🔭 **Studying**
+  - Vulnerability Management
+  - EDR
+  - SIEM
+  - SOC Operations
+  - Networking
+
+- 🏁 **Learning**
+  - SQL
+  - KQL
 
 ---
 
@@ -38,6 +50,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan_Taylor-blue?logo=linkedin)](https://www.linkedin.com/in/jonathan-taylor-869042244)
 [![GitHub](https://img.shields.io/badge/GitHub-JohnnyfiveAZR-black?logo=github)](https://github.com/JohnnyfiveAZR)
-
----
-
