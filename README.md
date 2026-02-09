@@ -41,6 +41,7 @@
 - 🏁 **Learning**
   - SQL
   - KQL
+  - Python
 
 ---
 
