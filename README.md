@@ -7,27 +7,30 @@
 [![Portfolio Projects](https://img.shields.io/badge/Projects-Showcase-success?logo=github)](https://github.com/JohnnyfiveAZR?tab=repositories)
 
 ---
+## 🌐 Cybersecurity + Agentic AI Projects
+-
+-
+-
+-
 
 ## ⚠️ Vulnerability Management Projects
-
 - 🔐 [Vulnerability Management Program Implementation](https://github.com/JohnnyfiveAZR/vulnerability-management-program)
-- 🛠️
-
----
+- 
+-
+-
+<br/>
 
 ## 🕵️‍♂️ Threat Hunting & Security Operations
 
 - 
 - 
-- 
+-
 
----
 
 ## 💻 Information Technology Projects
 
 - ☁️ [Configuring On-Premises Active Directory within Azure VMs](https://github.com/JohnnyfiveAZR/Microsoft-Azure)
 
----
 
 ## 🧠 Current Focus
 
