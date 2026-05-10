@@ -7,16 +7,16 @@
 </p>
 
 
-# 🚀 Johnny Taylor — IT & Cybersecurity Portfolio
+# 🚀 Johnny Taylor — IT Portfolio
 
-## Cybersecurity • Agentic AI • Networking • Vulnerability Management
+## Networking • CyberSecurity • Vulnerability Management
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jonathan-taylor-869042244)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/JohnnyfiveAZR)
 [![Portfolio Projects](https://img.shields.io/badge/Projects-Showcase-success?logo=github)](https://github.com/JohnnyfiveAZR?tab=repositories)
 
 ---
-## 🌐 Cybersecurity + Agentic AI Projects
+## 🌐 Networking Projects
 -
 -
 -
@@ -29,7 +29,7 @@
 -
 <br/>
 
-## 🕵️‍♂️ Threat Hunting & Security Operations
+##
 
 - 
 - 
@@ -44,11 +44,8 @@
 ## 🧠 Current Focus
 
 - 🔭 **Studying**
-  - Vulnerability Management
-  - EDR
-  - SIEM
-  - SOC Operations
-  - Networking
+  - CCNA
+  - SEC+
 
 - 🏁 **Learning**
   - SQL
