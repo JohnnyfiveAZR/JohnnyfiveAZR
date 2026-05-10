@@ -29,9 +29,9 @@
 -
 <br/>
 
-## Threat Hunting
+## Threat Hunting Projects
 
-- 
+- [Threat Hunt](https://github.com/JohnnyfiveAZR/Tor-Threat-Hunt/tree/main/tor-threat-hunt)
 - 
 -
 
