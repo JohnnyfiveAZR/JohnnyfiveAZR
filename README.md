@@ -60,13 +60,8 @@
 ## 🧠 Current Focus
 
 - 🔭 **Studying**
-  - CCNA
-  - SEC+
 
 - 🏁 **Learning**
-  - SQL
-  - KQL
-  - Python
 
 ---
 
