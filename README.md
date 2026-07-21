@@ -1,4 +1,4 @@
-### ▶️ [View My Full Portfolio →](https://JohnnyfiveAZR.github.io)
+
 
 <p align="center">
   <picture>
