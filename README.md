@@ -35,14 +35,9 @@
 ## 🌐 Networking Projects
 -
 -
--
--
-
 ## ⚠️ Vulnerability Management Projects
 - 🔐 [Vulnerability Management Program Implementation](https://github.com/JohnnyfiveAZR/vulnerability-management-program)
 - 
--
--
 <br/>
 
 ## Threat Hunting Projects
