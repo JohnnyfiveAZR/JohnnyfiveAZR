@@ -25,30 +25,10 @@
 
 ---
 
-## 🐍 About Me
+<br/>
+<br/>
 
-```python
-class JohnnyTaylor:
-    def __init__(self):
-        self.name = "Jonathan Taylor"
-        self.github = "JohnnyfiveAZR"
-        self.focus = [
-            "Networking",
-            "CyberSecurity",
-            "Vulnerability Management",
-        ]
-        self.studying = ["TBD"]
-        self.learning = ["TBD"]
-
-    def mission(self) -> str:
-        return "Find the weaknesses before the attackers do."
-
-
-me = JohnnyTaylor()
-print(me.mission())
-```
-
-## 📂 Projects  <sub>(3 published)</sub>
+## 📂 Projects
 
 ### 🛡️ DISA STIG Remediations
 <sub>Defense Information Systems Agency Security Technical Implementation Guides</sub>
