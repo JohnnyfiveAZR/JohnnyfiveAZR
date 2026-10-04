@@ -9,7 +9,7 @@
 </p>
 
 
-# 🚀 Johnny Taylor — IT Portfolio
+# 🚀 Johnny Taylor's Portfolio
 
 ## Networking • CyberSecurity • Vulnerability Management
 
