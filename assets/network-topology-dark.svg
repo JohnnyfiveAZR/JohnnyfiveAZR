@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 820 300" width="820" height="300" role="img" aria-label="Animated network topology">
+<rect x="1" y="1" width="818" height="298" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="20" y="28" font-family="monospace" font-size="13" fill="#8b949e">johnny@netlab:~$ <tspan fill="#c9d1d9">show network topology</tspan></text>
+<circle cx="605" cy="24" r="4" fill="#3fb950"><animate attributeName="opacity" values="1;0.25;1" dur="1.4s" repeatCount="indefinite"/></circle>
+<text x="615" y="28" font-family="monospace" font-size="12" fill="#3fb950">ALL UP</text>
+<line x1="85" y1="150" x2="225" y2="150" stroke="#30363d" stroke-width="3"/>
+<line x1="85" y1="150" x2="225" y2="150" stroke="#58a6ff" stroke-width="1.5" stroke-dasharray="2 10" opacity="0.45"><animate attributeName="stroke-dashoffset" from="12" to="0" dur="0.8s" repeatCount="indefinite"/></line>
+<line x1="225" y1="150" x2="375" y2="150" stroke="#30363d" stroke-width="3"/>
+<line x1="225" y1="150" x2="375" y2="150" stroke="#58a6ff" stroke-width="1.5" stroke-dasharray="2 10" opacity="0.45"><animate attributeName="stroke-dashoffset" from="12" to="0" dur="0.8s" repeatCount="indefinite"/></line>
+<line x1="375" y1="150" x2="535" y2="90" stroke="#30363d" stroke-width="3"/>
+<line x1="375" y1="150" x2="535" y2="90" stroke="#58a6ff" stroke-width="1.5" stroke-dasharray="2 10" opacity="0.45"><animate attributeName="stroke-dashoffset" from="12" to="0" dur="0.8s" repeatCount="indefinite"/></line>
+<line x1="375" y1="150" x2="535" y2="210" stroke="#30363d" stroke-width="3"/>
+<line x1="375" y1="150" x2="535" y2="210" stroke="#58a6ff" stroke-width="1.5" stroke-dasharray="2 10" opacity="0.45"><animate attributeName="stroke-dashoffset" from="12" to="0" dur="0.8s" repeatCount="indefinite"/></line>
+<line x1="535" y1="90" x2="715" y2="55" stroke="#30363d" stroke-width="3"/>
+<line x1="535" y1="90" x2="715" y2="55" stroke="#58a6ff" stroke-width="1.5" stroke-dasharray="2 10" opacity="0.45"><animate attributeName="stroke-dashoffset" from="12" to="0" dur="0.8s" repeatCount="indefinite"/></line>
+<line x1="535" y1="90" x2="715" y2="125" stroke="#30363d" stroke-width="3"/>
+<line x1="535" y1="90" x2="715" y2="125" stroke="#58a6ff" stroke-width="1.5" stroke-dasharray="2 10" opacity="0.45"><animate attributeName="stroke-dashoffset" from="12" to="0" dur="0.8s" repeatCount="indefinite"/></line>
+<line x1="535" y1="210" x2="715" y2="185" stroke="#30363d" stroke-width="3"/>
+<line x1="535" y1="210" x2="715" y2="185" stroke="#58a6ff" stroke-width="1.5" stroke-dasharray="2 10" opacity="0.45"><animate attributeName="stroke-dashoffset" from="12" to="0" dur="0.8s" repeatCount="indefinite"/></line>
+<line x1="535" y1="210" x2="715" y2="250" stroke="#30363d" stroke-width="3"/>
+<line x1="535" y1="210" x2="715" y2="250" stroke="#58a6ff" stroke-width="1.5" stroke-dasharray="2 10" opacity="0.45"><animate attributeName="stroke-dashoffset" from="12" to="0" dur="0.8s" repeatCount="indefinite"/></line>
+<path id="r0" d="M85,150 L225,150 L375,150 L535,90 L715,55" fill="none"/>
+<g visibility="hidden"><set attributeName="visibility" to="visible" begin="0.0s"/><circle r="9" fill="#3fb950" opacity="0.2"/><circle r="4.5" fill="#3fb950"/><animateMotion dur="4.0s" begin="0.0s" repeatCount="indefinite" rotate="auto"><mpath href="#r0" xlink:href="#r0"/></animateMotion></g>
+<path id="r1" d="M715,55 L535,90 L375,150 L225,150 L85,150" fill="none"/>
+<g visibility="hidden"><set attributeName="visibility" to="visible" begin="1.2s"/><circle r="9" fill="#58a6ff" opacity="0.2"/><circle r="4.5" fill="#58a6ff"/><animateMotion dur="4.0s" begin="1.2s" repeatCount="indefinite" rotate="auto"><mpath href="#r1" xlink:href="#r1"/></animateMotion></g>
+<path id="r2" d="M715,125 L535,90 L375,150 L535,210 L715,250" fill="none"/>
+<g visibility="hidden"><set attributeName="visibility" to="visible" begin="0.6s"/><circle r="9" fill="#bc8cff" opacity="0.2"/><circle r="4.5" fill="#bc8cff"/><animateMotion dur="3.2s" begin="0.6s" repeatCount="indefinite" rotate="auto"><mpath href="#r2" xlink:href="#r2"/></animateMotion></g>
+<path id="r3" d="M85,150 L225,150 L375,150 L535,210 L715,185" fill="none"/>
+<g visibility="hidden"><set attributeName="visibility" to="visible" begin="2.4s"/><circle r="9" fill="#3fb950" opacity="0.2"/><circle r="4.5" fill="#3fb950"/><animateMotion dur="4.0s" begin="2.4s" repeatCount="indefinite" rotate="auto"><mpath href="#r3" xlink:href="#r3"/></animateMotion></g>
+<path id="r4" d="M715,185 L535,210 L375,150 L225,150 L85,150" fill="none"/>
+<g visibility="hidden"><set attributeName="visibility" to="visible" begin="3.4s"/><circle r="9" fill="#58a6ff" opacity="0.2"/><circle r="4.5" fill="#58a6ff"/><animateMotion dur="4.0s" begin="3.4s" repeatCount="indefinite" rotate="auto"><mpath href="#r4" xlink:href="#r4"/></animateMotion></g>
+<path id="r5" d="M715,125 L535,90 L375,150 L225,150 L85,150" fill="none"/>
+<g visibility="hidden"><set attributeName="visibility" to="visible" begin="2.0s"/><circle r="9" fill="#58a6ff" opacity="0.2"/><circle r="4.5" fill="#58a6ff"/><animateMotion dur="3.6s" begin="2.0s" repeatCount="indefinite" rotate="auto"><mpath href="#r5" xlink:href="#r5"/></animateMotion></g>
+<g opacity="0"><circle r="9" fill="#f85149" opacity="0.25"/><circle r="4.5" fill="#f85149"/><animateTransform attributeName="transform" type="translate" values="115,150; 195,150; 195,150; 195,150" keyTimes="0;0.45;0.6;1" dur="5.0s" begin="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.45;0.6;1" dur="5.0s" begin="1.8s" repeatCount="indefinite"/></g>
+<text x="225" y="112" text-anchor="middle" font-family="monospace" font-size="11" font-weight="bold" fill="#f85149" opacity="0">DENY<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.44;0.47;0.62;0.7;1" dur="5.0s" begin="1.8s" repeatCount="indefinite"/></text>
+<g transform="translate(85,150)">
+  <path d="M-34,14 a16,16 0 0 1 2,-31 a22,22 0 0 1 40,-6 a16,16 0 0 1 24,14 a14,14 0 0 1 -2,23 z"
+        fill="#161b22" stroke="#58a6ff" stroke-width="2"/>
+  <circle cx="0" cy="-3" r="9" fill="none" stroke="#58a6ff" stroke-width="1.5"/>
+  <ellipse cx="0" cy="-3" rx="4" ry="9" fill="none" stroke="#58a6ff" stroke-width="1.2"/>
+  <line x1="-9" y1="-3" x2="9" y2="-3" stroke="#58a6ff" stroke-width="1.2"/>
+</g>
+<text x="85" y="184" text-anchor="middle" font-family="monospace" font-size="10" fill="#8b949e">INTERNET</text>
+<g transform="translate(225,150)">
+  <rect x="-22" y="-24" width="44" height="48" rx="4" fill="#d29922"/>
+  <line x1="-22" y1="-12" x2="22" y2="-12" stroke="#0d1117" stroke-width="1.5"/><line x1="-11" y1="-24" x2="-11" y2="-12" stroke="#0d1117" stroke-width="1.5"/><line x1="11" y1="-24" x2="11" y2="-12" stroke="#0d1117" stroke-width="1.5"/><line x1="-22" y1="0" x2="22" y2="0" stroke="#0d1117" stroke-width="1.5"/><line x1="0" y1="-12" x2="0" y2="0" stroke="#0d1117" stroke-width="1.5"/><line x1="-22" y1="12" x2="22" y2="12" stroke="#0d1117" stroke-width="1.5"/><line x1="-11" y1="0" x2="-11" y2="12" stroke="#0d1117" stroke-width="1.5"/><line x1="11" y1="0" x2="11" y2="12" stroke="#0d1117" stroke-width="1.5"/><line x1="0" y1="12" x2="0" y2="24" stroke="#0d1117" stroke-width="1.5"/>
+  <rect id="fwflash" x="-27" y="-29" width="54" height="58" rx="7" fill="none" stroke="#f85149" stroke-width="3" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.43;0.47;0.6;1"
+             dur="5.0s" begin="1.8s" repeatCount="indefinite"/>
+  </rect>
+</g>
+<text x="225" y="190" text-anchor="middle" font-family="monospace" font-size="10" fill="#8b949e">FIREWALL</text>
+<g transform="translate(375,150)">
+  <circle r="26" fill="none" stroke="#58a6ff" stroke-width="2">
+    <animate attributeName="r" values="26;40" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="26" fill="#161b22" stroke="#58a6ff" stroke-width="2.5"/>
+  <g transform="rotate(0)"><line x1="4" y1="0" x2="15" y2="0" stroke="#58a6ff" stroke-width="2.5"/><polygon points="18,0 12,-4 12,4" fill="#58a6ff"/></g><g transform="rotate(90)"><line x1="4" y1="0" x2="15" y2="0" stroke="#58a6ff" stroke-width="2.5"/><polygon points="18,0 12,-4 12,4" fill="#58a6ff"/></g><g transform="rotate(180)"><line x1="4" y1="0" x2="15" y2="0" stroke="#58a6ff" stroke-width="2.5"/><polygon points="18,0 12,-4 12,4" fill="#58a6ff"/></g><g transform="rotate(270)"><line x1="4" y1="0" x2="15" y2="0" stroke="#58a6ff" stroke-width="2.5"/><polygon points="18,0 12,-4 12,4" fill="#58a6ff"/></g>
+</g>
+<text x="375" y="192" text-anchor="middle" font-family="monospace" font-size="10" fill="#8b949e">CORE-RTR</text>
+<g transform="translate(535,90)">
+  <rect x="-32" y="-17" width="64" height="34" rx="6" fill="#161b22" stroke="#58a6ff" stroke-width="2.5"/>
+  <line x1="-14" y1="-7" x2="14" y2="-7" stroke="#58a6ff" stroke-width="2"/>
+  <polygon points="18,-7 12,-11 12,-3" fill="#58a6ff"/>
+  <line x1="14" y1="1" x2="-14" y2="1" stroke="#58a6ff" stroke-width="2"/>
+  <polygon points="-18,1 -12,-3 -12,5" fill="#58a6ff"/>
+  <circle cx="-20" cy="9" r="2" fill="#3fb950"><animate attributeName="opacity" values="1;0.2;1" dur="0.60s" repeatCount="indefinite"/></circle><circle cx="-12" cy="9" r="2" fill="#3fb950"><animate attributeName="opacity" values="1;0.2;1" dur="0.97s" repeatCount="indefinite"/></circle><circle cx="-4" cy="9" r="2" fill="#3fb950"><animate attributeName="opacity" values="1;0.2;1" dur="1.34s" repeatCount="indefinite"/></circle><circle cx="4" cy="9" r="2" fill="#3fb950"><animate attributeName="opacity" values="1;0.2;1" dur="0.61s" repeatCount="indefinite"/></circle><circle cx="12" cy="9" r="2" fill="#3fb950"><animate attributeName="opacity" values="1;0.2;1" dur="0.98s" repeatCount="indefinite"/></circle><circle cx="20" cy="9" r="2" fill="#3fb950"><animate attributeName="opacity" values="1;0.2;1" dur="1.35s" repeatCount="indefinite"/></circle>
+</g>
+<text x="535" y="122" text-anchor="middle" font-family="monospace" font-size="10" fill="#8b949e">SW-ACCESS-1</text>
+<g transform="translate(535,210)">
+  <rect x="-32" y="-17" width="64" height="34" rx="6" fill="#161b22" stroke="#58a6ff" stroke-width="2.5"/>
+  <line x1="-14" y1="-7" x2="14" y2="-7" stroke="#58a6ff" stroke-width="2"/>
+  <polygon points="18,-7 12,-11 12,-3" fill="#58a6ff"/>
+  <line x1="14" y1="1" x2="-14" y2="1" stroke="#58a6ff" stroke-width="2"/>
+  <polygon points="-18,1 -12,-3 -12,5" fill="#58a6ff"/>
+  <circle cx="-20" cy="9" r="2" fill="#3fb950"><animate attributeName="opacity" values="1;0.2;1" dur="0.60s" repeatCount="indefinite"/></circle><circle cx="-12" cy="9" r="2" fill="#3fb950"><animate attributeName="opacity" values="1;0.2;1" dur="0.97s" repeatCount="indefinite"/></circle><circle cx="-4" cy="9" r="2" fill="#3fb950"><animate attributeName="opacity" values="1;0.2;1" dur="1.34s" repeatCount="indefinite"/></circle><circle cx="4" cy="9" r="2" fill="#3fb950"><animate attributeName="opacity" values="1;0.2;1" dur="0.61s" repeatCount="indefinite"/></circle><circle cx="12" cy="9" r="2" fill="#3fb950"><animate attributeName="opacity" values="1;0.2;1" dur="0.98s" repeatCount="indefinite"/></circle><circle cx="20" cy="9" r="2" fill="#3fb950"><animate attributeName="opacity" values="1;0.2;1" dur="1.35s" repeatCount="indefinite"/></circle>
+</g>
+<text x="535" y="242" text-anchor="middle" font-family="monospace" font-size="10" fill="#8b949e">SW-ACCESS-2</text>
+<g transform="translate(715,55)">
+  <rect x="-19" y="-21" width="38" height="42" rx="4" fill="#161b22" stroke="#8b949e" stroke-width="2"/>
+  <rect x="-15" y="-17" width="30" height="9" rx="2" fill="#0d1117" stroke="#30363d"/><circle cx="9" cy="-12.5" r="1.8" fill="#3fb950"><animate attributeName="opacity" values="1;0.3;1" dur="0.9s" repeatCount="indefinite"/></circle><rect x="-15" y="-5" width="30" height="9" rx="2" fill="#0d1117" stroke="#30363d"/><circle cx="9" cy="-0.5" r="1.8" fill="#3fb950"><animate attributeName="opacity" values="1;0.3;1" dur="1.3s" repeatCount="indefinite"/></circle><rect x="-15" y="7" width="30" height="9" rx="2" fill="#0d1117" stroke="#30363d"/><circle cx="9" cy="11.5" r="1.8" fill="#3fb950"><animate attributeName="opacity" values="1;0.3;1" dur="1.7000000000000002s" repeatCount="indefinite"/></circle>
+</g>
+<text x="715" y="88" text-anchor="middle" font-family="monospace" font-size="10" fill="#8b949e">WEB-SRV</text>
+<g transform="translate(715,125)">
+  <rect x="-20" y="-17" width="40" height="27" rx="3" fill="#161b22" stroke="#8b949e" stroke-width="2"/>
+  <text x="-14" y="0" font-family="monospace" font-size="9" fill="#3fb950">&gt;_<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></text>
+  <line x1="0" y1="10" x2="0" y2="16" stroke="#8b949e" stroke-width="2"/>
+  <line x1="-10" y1="17" x2="10" y2="17" stroke="#8b949e" stroke-width="2.5" stroke-linecap="round"/>
+</g>
+<text x="715" y="155" text-anchor="middle" font-family="monospace" font-size="10" fill="#8b949e">WORKSTATION</text>
+<g transform="translate(715,185)">
+  <rect x="-17" y="-15" width="34" height="23" rx="3" fill="#161b22" stroke="#8b949e" stroke-width="2"/>
+  <rect x="-12" y="-10" width="24" height="13" fill="#58a6ff" opacity="0.25"/>
+  <path d="M-23,10 L23,10 L19,15 L-19,15 Z" fill="#8b949e"/>
+</g>
+<text x="715" y="213" text-anchor="middle" font-family="monospace" font-size="10" fill="#8b949e">LAPTOP</text>
+<g transform="translate(715,250)">
+  <rect x="-19" y="-21" width="38" height="42" rx="4" fill="#161b22" stroke="#8b949e" stroke-width="2"/>
+  <rect x="-15" y="-17" width="30" height="9" rx="2" fill="#0d1117" stroke="#30363d"/><circle cx="9" cy="-12.5" r="1.8" fill="#3fb950"><animate attributeName="opacity" values="1;0.3;1" dur="0.9s" repeatCount="indefinite"/></circle><rect x="-15" y="-5" width="30" height="9" rx="2" fill="#0d1117" stroke="#30363d"/><circle cx="9" cy="-0.5" r="1.8" fill="#3fb950"><animate attributeName="opacity" values="1;0.3;1" dur="1.3s" repeatCount="indefinite"/></circle><rect x="-15" y="7" width="30" height="9" rx="2" fill="#0d1117" stroke="#30363d"/><circle cx="9" cy="11.5" r="1.8" fill="#3fb950"><animate attributeName="opacity" values="1;0.3;1" dur="1.7000000000000002s" repeatCount="indefinite"/></circle>
+</g>
+<text x="715" y="283" text-anchor="middle" font-family="monospace" font-size="10" fill="#8b949e">SIEM</text>
+<circle cx="20" cy="280" r="4" fill="#3fb950"/>
+<text x="29" y="284" font-family="monospace" font-size="10" fill="#8b949e">inbound</text>
+<circle cx="87.5" cy="280" r="4" fill="#58a6ff"/>
+<text x="96.5" y="284" font-family="monospace" font-size="10" fill="#8b949e">outbound</text>
+<circle cx="161.5" cy="280" r="4" fill="#bc8cff"/>
+<text x="170.5" y="284" font-family="monospace" font-size="10" fill="#8b949e">east-west</text>
+<circle cx="242.0" cy="280" r="4" fill="#f85149"/>
+<text x="251.0" y="284" font-family="monospace" font-size="10" fill="#8b949e">blocked</text>
+</svg>
